@@ -1,4 +1,4 @@
-https://vercel.com/engineer-alis-projects/movieexplorer
+https://movieexplorer-alpha.vercel.app/
 
 ## Getting Started
 
